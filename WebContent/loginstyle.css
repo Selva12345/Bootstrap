@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url("file:///C:/Users/Public/Pictures/Sample Pictures/Bird.jpg");
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+li   {color: white;}
+b   {color: white;}
+p    {color: red;}
